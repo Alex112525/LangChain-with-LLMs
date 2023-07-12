@@ -8,3 +8,6 @@ This repository contains a collection of notebooks showcasing the combination of
 
 #### 2. LangChain_FewShotPromptTemplate:
 * In this notebook, we employ the BERTin-GPT-j-6B-Alpaca language model using "Few Shot Prompting" with the Langchain framework. The goal is to enhance the model's responses by providing it with prompt examples and fine-tuning it on a specific task.
+
+### 3. LangChain_BufferMemory:
+* This notebook showcases the usage of the BERTin-GPT-j-6B-Alpaca language model with the ConversationBufferMemory from the Langchain framework. By incorporating conversation memory, the model can provide more contextually aware responses based on the ongoing conversation.
