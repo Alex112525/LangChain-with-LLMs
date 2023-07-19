@@ -11,3 +11,10 @@ This repository contains a collection of notebooks showcasing the combination of
 
 ### 3. LangChain_BufferMemory:
 * This notebook showcases the usage of the BERTin-GPT-j-6B-Alpaca language model with the ConversationBufferMemory from the Langchain framework. By incorporating conversation memory, the model can provide more contextually aware responses based on the ongoing conversation.
+
+### 4. LangChaing_BufferWindowsMemory:
+* This notebook demonstrates the utilization of the Falcon-7B-instruct language model with the ConversationBufferWindowMemory from the Langchain framework. The model is equipped with a conversation buffer window, allowing it to retain a defined context window from the ongoing conversation and generate more informed responses.
+
+>Note: This repository will be updated with additional notebooks over time, each focusing on different aspects of combining Huggingface models with the Langchain framework. Stay tuned for more experiments and insights!
+
+Feel free to explore the notebooks and experiment with different models and setups. If you have any questions or suggestions, please don't hesitate to reach out.
