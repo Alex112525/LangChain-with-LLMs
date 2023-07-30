@@ -21,6 +21,9 @@ This repository contains a collection of notebooks showcasing the combination of
 ### 6. Loaders and Splitting with Langchain:
 * In this notebook, Langchain is utilized to load documents from various sources using specialized loaders. The notebook demonstrates the use of the PyPDF library for loading PDF documents and the WebBaseLoader for extracting content from web pages. Additionally, the notebook showcases the functionality of Splitting functions such as RecursiveCharacterTextSplitter and TokenTextSplitter to process and split the loaded documents into manageable parts for further analysis.
 
+### 7. Embeddings and VectorStores with Langchain:
+*  In this notebook, Langchain is employed to convert texts from PDFs into vectors using embedding models. The notebook showcases how to use pre-trained embedding models to represent text documents as numerical vectors. Furthermore, it demonstrates how to perform similarity searches based on cosine similarity to find documents with similar content. Additionally, the notebook explores the integration of Chroma, a database system, to store and efficiently retrieve embeddings for faster similarity searches.
+
 >Note: This repository will be updated with additional notebooks over time, each focusing on different aspects of combining Huggingface models with the Langchain framework. Stay tuned for more experiments and insights!
 
 Feel free to explore the notebooks and experiment with different models and setups. If you have any questions or suggestions, please don't hesitate to reach out.
